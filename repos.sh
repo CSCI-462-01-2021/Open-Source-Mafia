@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo echo "
 # See http://help.ubuntu.com/community/UpgradeNotes for how to upgrade to
 # newer versions of the distribution.
