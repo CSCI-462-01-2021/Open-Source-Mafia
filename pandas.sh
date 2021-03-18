@@ -7,7 +7,7 @@ read github
 
 # echo $github
 
-git clone https://github.com/$github/pandas-dev Desktop/pandas-$github
+git clone https://github.com/$github/pandas ~/Desktop/pandas-$github
 
 cd pandas-$github 
 
