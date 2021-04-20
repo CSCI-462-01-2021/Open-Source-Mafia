@@ -11,4 +11,4 @@ Free Open Source Software (FOSS) and Humanitarian Free Open Source Software (H/F
 
 ## Final Presentation Video
 
-[Final Presentation](https://drive.google.com/file/d/1wHcPyngHVetyrql5fZGxTFmNP8Shesm0/view?usp=sharing)
+[Final Presentation](https://drive.google.com/file/d/13jw4AaR3NQ-ewIZJTwcp_mOJbUEkcTnb/view)
